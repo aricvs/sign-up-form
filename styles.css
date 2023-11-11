@@ -130,6 +130,12 @@ table {
 body {
   background-image: url(images/background.jpg);
   background-size: contain;
+  display: flex;
+}
+
+.sidebar {
+  background-color: black;
+  opacity: 50%;
 }
 
 .main-form-container {

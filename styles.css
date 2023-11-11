@@ -129,6 +129,7 @@ table {
 
 body {
   background-image: url(images/background.jpg);
+  background-size: contain;
 }
 
 .main-form-container {

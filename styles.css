@@ -131,11 +131,22 @@ body {
   background-image: url(images/background.jpg);
   background-size: contain;
   display: flex;
+  font-family: sans-serif;
 }
 
 .sidebar {
-  background-color: black;
-  opacity: 50%;
+  background: rgba(0, 0, 0, 0.3);
+  width: 30vw;
+  height: 20vh;
+  align-self: center;
+  display: flex;
+  justify-content: center;
+}
+
+.sidebar__text {
+  color: white;
+  font-size: 5rem;
+  align-self: center;
 }
 
 .main-form-container {

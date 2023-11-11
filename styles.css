@@ -135,6 +135,6 @@ body {
 .main-form-container {
   width: 70vw;
   height: 100vh;
-  background-color: lightgoldenrodyellow;
+  background-color: rgb(231, 231, 231);
   margin-left: auto;
 }

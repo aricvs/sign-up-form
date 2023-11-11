@@ -130,3 +130,10 @@ table {
 body {
   background-image: url(images/background.jpg);
 }
+
+.main-form-container {
+  width: 70vw;
+  height: 100vh;
+  background-color: lightgoldenrodyellow;
+  margin-left: auto;
+}

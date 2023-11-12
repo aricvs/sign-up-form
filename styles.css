@@ -28,22 +28,21 @@ body {
   margin-left: auto;
   display: flex;
   flex-direction: column;
-  justify-content: center;
 }
 
 .main-form-container__cta {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   text-align: justify;
   padding: 3rem;
   font-size: 1.3rem;
-  height: 10vh;
+  height: 20vh;
   gap: 1rem;
 }
 
 .cta__text {
   margin: 0;
+  margin-top: 0.5rem;
 }
 
 .main-form-container__form {

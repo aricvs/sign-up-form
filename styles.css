@@ -85,6 +85,12 @@ input {
   width: 250px;
 }
 
+input:focus {
+  outline: none;
+  border: 1px solid blue;
+  box-shadow: 0 0 10px #719ece;
+}
+
 .main-form-container__login {
   height: 10vh;
 }

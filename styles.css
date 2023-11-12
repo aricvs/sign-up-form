@@ -120,3 +120,7 @@ input:focus {
 .login__create-acc-button:active {
   transform: translate(0, 3px);
 }
+
+a {
+  text-decoration: none;
+}

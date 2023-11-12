@@ -21,7 +21,7 @@
       </div>
       <div class="main-form-container__form">
         <p class="form-cta">Let's do this!</p>
-        <form>
+        <form id="main-form">
           <div class="form-item form-item__first-name">
             <label for="first-name">First name</label>
             <input type="text" id="first-name" name="first-name" />
@@ -53,7 +53,7 @@
         </form>
       </div>
       <div class="main-form-container__login">
-        <button type="button" class="login__create-acc-button">
+        <button type="submit" form="main-form" class="login__create-acc-button">
           Create Account
         </button>
         <p>

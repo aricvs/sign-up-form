@@ -94,6 +94,7 @@ input:focus {
 
 .main-form-container__login {
   height: 10vh;
+  padding: 2rem;
 }
 
 .login__create-acc-button {

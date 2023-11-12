@@ -48,7 +48,6 @@ body {
 .main-form-container__form {
   background-color: white;
   padding: 3rem;
-  width: 100vw;
   height: 20vh;
   display: flex;
   flex-direction: column;
